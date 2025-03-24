@@ -1,12 +1,16 @@
 # Technical Context
-Last Updated: [Current Date]
+Last Updated: 2025-03-24
+## Platform Information
+- **Operating System**: Windows 10 (win32 10.0.22621)
+- **Shell**: PowerShell 7 (C:\Program Files\PowerShell\7\pwsh.exe)
+- **Development Environment**: VS Code/Cursor IDE
+
 ## Technology Stack
 - **Framework**: Next.js
 - **Language**: TypeScript
 - **Styling**: CSS Modules
 - **Package Manager**: npm
 - **Version Control**: Git
-- **Development Environment**: VS Code/Cursor
 
 ## Development Setup
 1. **Prerequisites**
